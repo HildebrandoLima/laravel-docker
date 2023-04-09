@@ -19,4 +19,4 @@ Projeto laravel com docker, exemplo simples, apenas com a interface de boas vind
 ## Como executar o app
 
 - Executar comando ´sudo docker-compose up -d --build.´
-- [Acessar seu navegador com o seguinte link: ](http://127.0.0.1:8080/)
+- [Acessar seu navegador clicando aqui: ](http://127.0.0.1:8080/)
